@@ -29,4 +29,6 @@ Instructions on how to use them in your own application are linked below.
 
 ## Screenshots
 
+| Screenshot 1     | Screenshot 2      |Screenshot 3     |
+|------------|-------------|-------------|
 | ![Quizik App](https://github.com/motifx007/quizik/blob/master/App%20Screenshots/startquiz_page1.png)  |  ![Quizik App](https://github.com/motifx007/quizik/blob/master/App%20Screenshots/quizcategory_page2.png) |![Quizik App](https://github.com/motifx007/quizik/blob/master/App%20Screenshots/quizview_page3.png) |
