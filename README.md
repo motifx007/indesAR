@@ -15,11 +15,13 @@
 >unnecessary troubles caused during selection of 40 interior design components like Furniture,
 >Wall shelves, Ceiling decorations, etc.
 
-indesAR uses the above tools to work properly:
-- [AngularJS] - HTML enhanced for web apps!
-- [Ace Editor] - awesome web-based text editor
-- [markdown-it] - Markdown parser done right. Fast and easy to extend.
-- [Twitter Bootstrap] - great UI boilerplate for modern web apps
-- [node.js] - evented I/O for the backend
-- [Express] - fast node.js network app framework [@tjholowaychuk]
-- [Gulp] - the streaming build system
+## Plugins
+
+Dillinger is currently extended with the following plugins.
+Instructions on how to use them in your own application are linked below.
+
+| Plugin | Link | Application |
+| ------ | ------ |
+| ARCore | [https://developers.google.com/ar][PlDb] | AR engine |
+| ZXing Unity3D | [https://github.com/linmq/ZXing_Unity3D_Test][PlGh] | QR Code scanner |
+| Firebase | [https://firebase.google.com/docs/unity/setup][PlGd] | Database |
