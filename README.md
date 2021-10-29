@@ -22,6 +22,6 @@ Instructions on how to use them in your own application are linked below.
 
 | Plugin | Link | Application |
 | ------ | ------ | ----------|
-| ARCore | [https://developers.google.com/ar][PlDb] | AR engine |
-| ZXing Unity3D | [https://github.com/linmq/ZXing_Unity3D_Test][PlGh] | QR Code scanner |
-| Firebase | [https://firebase.google.com/docs/unity/setup][PlGd] | Database |
+| ARCore | [https://developers.google.com/ar][PlAc] | AR engine |
+| ZXing Unity3D | [https://github.com/linmq/ZXing_Unity3D_Test][PlZU] | QR Code scanner |
+| Firebase | [https://firebase.google.com/docs/unity/setup][PlFb] | Database |
