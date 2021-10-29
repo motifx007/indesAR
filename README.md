@@ -1,6 +1,6 @@
 # indesAR - Interior Design Simulation using Augmented Reality, 2019
 
-## Features
+## About
 
 >In this project report, we present a simulation application for making the process of selection
 >of furniture and other interior design components more efficient. The application basically
