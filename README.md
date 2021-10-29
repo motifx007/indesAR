@@ -15,9 +15,9 @@
 >unnecessary troubles caused during selection of 40 interior design components like Furniture,
 >Wall shelves, Ceiling decorations, etc.
 
-## Plugins
+## Tools
 
-Dillinger is currently extended with the following plugins.
+indesAR is currently extended with the following plugins.
 Instructions on how to use them in your own application are linked below.
 
 | Plugin | Link | Application |
@@ -25,3 +25,4 @@ Instructions on how to use them in your own application are linked below.
 | ARCore | [https://developers.google.com/ar](https://developers.google.com/ar) | AR engine |
 | ZXing Unity3D | [https://github.com/linmq/ZXing_Unity3D_Test](https://github.com/linmq/ZXing_Unity3D_Test) | QR Code scanner |
 | Firebase | [https://firebase.google.com/docs/unity/setup](https://firebase.google.com/docs/unity/setup) | Database |
+| Unity 3D | [Unity 3D version 2019.1.0f2](https://unity3d.com/get-unity/download?thank-you=update&download_nid=61327&os=Win) | Game Engine |
