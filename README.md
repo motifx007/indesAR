@@ -29,6 +29,7 @@ Instructions on how to use them in your own application are linked below.
 | ZXing Unity3D | [https://github.com/linmq/ZXing_Unity3D_Test](https://github.com/linmq/ZXing_Unity3D_Test) | QR Code scanner |
 | Firebase | [https://firebase.google.com/docs/unity/setup](https://firebase.google.com/docs/unity/setup) | Database |
 | Unity 3D | [Unity 3D version 2019.1.0f2](https://unity3d.com/get-unity/download?thank-you=update&download_nid=61327&os=Win) | Game Engine |
+| Android version 8.1 Oreo | | Android SDK |
 
 ## Screenshots
 
