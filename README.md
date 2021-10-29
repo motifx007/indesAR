@@ -14,3 +14,12 @@
 >of time and effort). Hence the project on implementation helps reduce these inconveniences and
 >unnecessary troubles caused during selection of 40 interior design components like Furniture,
 >Wall shelves, Ceiling decorations, etc.
+
+indesAR uses the above tools to work properly:
+- [AngularJS] - HTML enhanced for web apps!
+- [Ace Editor] - awesome web-based text editor
+- [markdown-it] - Markdown parser done right. Fast and easy to extend.
+- [Twitter Bootstrap] - great UI boilerplate for modern web apps
+- [node.js] - evented I/O for the backend
+- [Express] - fast node.js network app framework [@tjholowaychuk]
+- [Gulp] - the streaming build system
