@@ -36,6 +36,6 @@ Instructions on how to use them in your own application are linked below.
 |------------|-------------|-------------|-------------|
 | ![Quizik App](https://github.com/motifx007/indesAR/blob/main/screenshots/Capture.JPG)  |  ![Quizik App](https://github.com/motifx007/indesAR/blob/main/screenshots/Capture1.JPG) |![Quizik App](https://github.com/motifx007/indesAR/blob/main/screenshots/Capture3.JPG) | ![Quizik App](https://github.com/motifx007/indesAR/blob/main/screenshots/Capture2.JPG) |
 
-| Screenshot 1     | Screenshot 2      |Screenshot 3     |Screenshot 3     |
-|------------|-------------|-------------|-------------|
-| ![Quizik App](https://github.com/motifx007/indesAR/blob/main/screenshots/Picture6.jpg)  |  ![Quizik App](https://github.com/motifx007/indesAR/blob/main/screenshots/Picture7.jpg) |![Quizik App](https://github.com/motifx007/indesAR/blob/main/screenshots/Capture3.JPG) | ![Quizik App](https://github.com/motifx007/indesAR/blob/main/screenshots/Capture2.JPG) |
+| Screenshot 1     | Screenshot 2      |
+|------------|-------------|
+| ![Quizik App](https://github.com/motifx007/indesAR/blob/main/screenshots/Picture6.jpg)  |  ![Quizik App](https://github.com/motifx007/indesAR/blob/main/screenshots/Picture7.jpg) |
