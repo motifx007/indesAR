@@ -40,6 +40,6 @@ Instructions on how to use them in your own application are linked below.
 | Screenshot 1     | Screenshot 2      |Screenshot 3 |
 |------------|-------------|-------------|
 | ![Quizik App](https://github.com/motifx007/indesAR/blob/main/screenshots/Picture6.jpg)  |  ![Quizik App](https://github.com/motifx007/indesAR/blob/main/screenshots/Picture7.jpg)
-| ![Quizik App](https://github.com/motifx007/indesAR/blob/main/screenshots/Screenshot_20211103_075535_com.samson.indesARHari.jpg) |
+| ![Quizik App](https://github.com/motifx007/indesAR/blob/main/screenshots/ar_view_screen.jpg) |
 
 ## Video
