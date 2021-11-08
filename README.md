@@ -2,7 +2,7 @@
 
 ## About
 
->In this project report, we present a simulation application for making the process of selection
+>We present a simulation application for making the process of selection
 >of furniture and other interior design components more efficient. The application basically
 >understands the plains (vertical/horizontal) and decides the area over which the required component’s
 >3D model is augmented, as seen through the user’s mobile device’s camera. The
