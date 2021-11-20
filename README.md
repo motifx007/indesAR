@@ -41,7 +41,7 @@ Instructions on how to use them in your own application are linked below.
 |------------|-------------|-------------|-------------|
 | ![Quizik App](https://github.com/motifx007/indesAR/blob/main/screenshots/Picture6.jpg)  |  ![Quizik App](https://github.com/motifx007/indesAR/blob/main/screenshots/Picture7.jpg)
 | ![Quizik App](https://github.com/motifx007/indesAR/blob/main/screenshots/ar_view_screen.jpg) | ![Quizik App](https://github.com/motifx007/indesAR/blob/main/screenshots/screenshot_view_screen.jpg) | -->
-| Screenshot 1     | Screenshot 2      |Screenshot 3     |
+| Screenshot 4     | Screenshot 5      |Screenshot 6     |
 |------------|-------------|-------------|
 | ![Quizik App](https://github.com/motifx007/indesAR/blob/main/screenshots/Picture6.jpg)  |![Quizik App](https://github.com/motifx007/indesAR/blob/main/screenshots/ar_view_screen.jpg) | ![Quizik App](https://github.com/motifx007/indesAR/blob/main/screenshots/screenshot_view_screen.jpg) |
 
